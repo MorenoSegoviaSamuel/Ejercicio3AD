@@ -1,0 +1,20 @@
+<Atletas>
+  <atleta>
+    <nombre>Maricarmen</nombre>
+    <edad>65</edad>
+    <pais>España</pais>
+    <pruebas>
+      <prueba>100M</prueba>
+      <prueba>50M</prueba>
+    </pruebas>
+  </atleta>
+  <atleta>
+    <nombre>Juana</nombre>
+    <edad>20</edad>
+    <pais>Francia</pais>
+    <pruebas>
+      <prueba>Waterpolo</prueba>
+      <prueba>Natacion</prueba>
+    </pruebas>
+  </atleta>
+</Atletas>
